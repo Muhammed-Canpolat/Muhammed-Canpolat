@@ -1,6 +1,7 @@
 # Hi, I'm Muhammed Canpolat 👋
 
 🎓 Computer Engineering Student 
+
 💻 Full-Stack Developer | Web & Mobile Applications  
 📍 Istanbul, Türkiye  
 
