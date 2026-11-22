@@ -2,7 +2,7 @@
 
 <img src="./github-profile-banner.png" alt="Navy and cyan developer workstation with a game controller and IoT board" width="100%">
 
-# Hi, I'm Muhammed Canpolat 👋
+# Hi, I'm Muhammed Canpolat 
 
 **Software Development · Full-Stack · Game Development · IoT**
 
