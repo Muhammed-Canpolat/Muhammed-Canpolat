@@ -35,17 +35,23 @@ I'm a fourth-year Computer Engineering student based in Istanbul, Türkiye. I've
 
 A real-time management platform for university promotional events, supporting four personnel roles, QR-based attendance, live staff coordination, automatic queue rotation, and XLSX reporting. Source code and internal access are not publicly shared.
 
+![Staff management and QR attendance screens](./university-operations.png)
+
 ### MÜDEK Accreditation & Evidence Management Portal
 **Institutional project**  
 **Next.js · TypeScript · tRPC · MySQL · Google Drive**
 
 A role-based academic accreditation portal with email-code two-step sign-in, evidence tracking, Google Drive integration, scheduled reminders, and departmental dashboards. Source code and internal access are not publicly shared.
 
+![Accreditation portal landing and sign-in screens](./mudek-accreditation.png)
+
 ### SENS-AI — Wearable Health Monitoring
 **TÜBİTAK 2209-A-supported research · Team lead**  
 **Flutter · ESP32 · Firebase Realtime Database**
 
 A wearable-sensor and mobile-app system for real-time physiological monitoring. I worked on device-to-app communication, sensor integration, system architecture, and team coordination. Research from this project received paper acceptances at **ICSET-25** and **SAVTEK 2026**.
+
+![SENS-AI emergency, settings, and health assistant screens](./sens-ai.png)
 
 ### Mini Empire Builder
 **Personal project · Android-oriented 2D strategy game**  
@@ -61,11 +67,15 @@ A strategy game featuring base building, resource economy, offline gold generati
 
 A real-time multiplayer draft game with fixed-budget bidding, player and spectator rooms, local multiplayer, and configurable bot strategies.
 
+![Kadrobid home, categories, auction, and multiplayer lobby](./kadrobid.png)
+
 ### Internal Space Reservation System
 **Institutional project · Completed, not deployed**  
 **PHP · JavaScript · HTML/CSS · MySQL**
 
 A full-stack reservation platform with calendar availability, multi-step requests, draft saving, administrative approval, statistics, and Excel export. Not deployed due to institutional procedures.
+
+![Space reservation dashboard and statistics](./space-reservation.png)
 
 ## Research highlights
 
