@@ -47,11 +47,13 @@ A role-based academic accreditation portal with email-code two-step sign-in, evi
 
 A wearable-sensor and mobile-app system for real-time physiological monitoring. I worked on device-to-app communication, sensor integration, system architecture, and team coordination. Research from this project received paper acceptances at **ICSET-25** and **SAVTEK 2026**.
 
-### [Mini Empire Builder](https://github.com/Muhammed-Canpolat/MiniEmpireBuilder)
+### Mini Empire Builder
 **Personal project · Android-oriented 2D strategy game**  
 **Unity · C#**
 
 A strategy game featuring base building, resource economy, offline gold generation, region-based campaigns, and wave-based combat with multiple enemy and boss types.
+
+![Mini Empire Builder screenshots showing the main base, campaign map, and combat](./mini-empire-builder-gameplay.png)
 
 ### Kadrobid — Multiplayer Auction & Draft Game
 **Personal project**  
